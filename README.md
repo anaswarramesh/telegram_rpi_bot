@@ -4,11 +4,11 @@ A simple Python-based Telegram bot for Raspberry Pi that saves photos and text m
 
 ## Features
 
-✅ **Photo Upload** - Send photos through Telegram and they'll be saved with timestamps
-✅ **Message Storage** - Send text messages to save them as `.txt` files organized by date
-✅ **Auto-Organization** - Files are automatically organized into subdirectories
-✅ **Logging** - All activities are logged for debugging
-✅ **Error Handling** - Graceful error handling with user feedback
+ **Photo Upload** - Send photos through Telegram and they'll be saved with timestamps
+ **Message Storage** - Send text messages to save them as `.txt` files organized by date
+ **Auto-Organization** - Files are automatically organized into subdirectories
+ **Logging** - All activities are logged for debugging
+ **Error Handling** - Graceful error handling with user feedback
 
 ## Requirements
 
